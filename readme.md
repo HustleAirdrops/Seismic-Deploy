@@ -17,7 +17,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 ```sh
 sudo apt update
-sudo apt install -y jq file
+sudo apt install -y jq file unzip
 ```
 
 ---
